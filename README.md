@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow Frontend
 
 ## Overview
@@ -202,3 +203,6 @@ TaskFlow frontend provides a clean and professional interface for managing proje
 It is built with scalability, performance, and user experience in mind.
 
 The application ensures smooth interaction between frontend and backend while maintaining responsive and modern UI design.
+=======
+# Taskflow
+>>>>>>> 4e0718638d3f1cc6f70b68a1ce5b80548c14f468
